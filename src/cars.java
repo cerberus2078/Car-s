@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 // GIT comment
 
+
 public class cars {
 
 	public static void main(String[] args) {
@@ -33,6 +34,7 @@ public class cars {
 
 class Car{
 	
+	//attributes
 	private String brand = "Kia";
 	private String model = "Rio";
 	private int amountOfFuel = 2;
