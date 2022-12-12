@@ -60,6 +60,7 @@ class Car{
 		printData();
 	}
 	
+	// methods
 	public void brake() {
 		System.out.println("Car is breaking");
 	}
